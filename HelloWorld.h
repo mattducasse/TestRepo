@@ -1,1 +1,1 @@
-#define OUT_TEXT "Hello World. \n"
+#define OUT_TEXT "Hi. \n"
