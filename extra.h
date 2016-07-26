@@ -1,1 +1,1 @@
-#define X 52`
+#define X 52
